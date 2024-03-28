@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **MERN, UI/UX**
 
+- 👨‍💻 All of my projects are available at [https://portfolio-deepikakoti.netlify.app/](https://portfolio-deepikakoti.netlify.app/)
+
 - 📫 How to reach me **deepikadasineni16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

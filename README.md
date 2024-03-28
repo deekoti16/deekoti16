@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepika Koti</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-
+<img align="right" alt="coding" src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4Nzk2NTQsIm5iZiI6MTcxMDg3OTM1NCwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE5VDIwMTU1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1M2NhMGU1Y2FmNDcxYjc4NzViZTExNzdhMmE3NGZkYWMyNjRiY2UyMWViMzBlZjY0ZTIzZjg1OGEyNTRmNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.s_WJJ_uKxQpg4AHgePhlhvUZfn3Z-cd4ANXxksJikQI">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deekoti16&label=Profile%20views&color=0e75b6&style=flat" alt="deekoti16" /></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**

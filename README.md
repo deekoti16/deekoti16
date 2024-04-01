@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-deepikakoti.netlify.app/](https://portfolio-deepikakoti.netlify.app/)
 
-- 📫 How to reach me **deepikadasineni16@gmail.com**
+- 📫 How to reach me **deepikakoti16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
